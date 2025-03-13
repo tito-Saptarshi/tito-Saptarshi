@@ -3,7 +3,7 @@
 
 - 🌱 Full Stack Developer
 
-- 💬 Ask me about **react, nextJS, mongodb, mongoose, prisma,supabase**
+- 💬 Ask me about **react, nextJS, mongodb, mongoose, prisma, Java Springboot**
 
 - 📫 How to reach me **saptarshi.tito.20@gmail.com**
 
