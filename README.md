@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saptarshi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **NextJS and Prisma,**
+- 🌱 Full Stack Developer ,**
 
 - 💬 Ask me about **react, nextJS, mongodb, mongoose, prisma,supabase**
 
