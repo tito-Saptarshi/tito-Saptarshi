@@ -1,59 +1,51 @@
-<!-- Profile README for Saptarshi Das -->
-
 <h1 align="center">Hi 👋, I'm Saptarshi</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines=React+%7C+Next.js+%7C+Spring+Boot+%7C+MongoDB+%7C+Prisma+%7C+Full+Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Full+Stack+Web+Developer;Spring+Boot+%7C+Next.js+%7C+MongoDB+%7C+Prisma" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🔭 I’m currently building amazing full stack projects using **Next.js, Spring Boot, Prisma & MongoDB**
-- 💬 Ask me about `React`, `Next.js`, `MongoDB`, `Mongoose`, `Prisma`, `Java`, `Spring Boot`
+- 🌱 I’m a Full Stack Developer  
+- 💬 Ask me about **React, Next.js, MongoDB, Mongoose, Prisma, Java Spring Boot**
 - 📫 Reach me at: **saptarshi.tito.20@gmail.com**
-- 🚀 I’m constantly learning and leveling up my dev game!
 
 ---
 
-### 🤝 Connect with me:
-
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/tito-Saptarshi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/tito-Saptarshi" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/saptarshi-das-4822191b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saptarshi-das-4822191b4/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Contributions
+<h3 align="left">📊 GitHub Stats & Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tito-Saptarshi&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tito-Saptarshi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -61,11 +53,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tito-Saptarshi&theme=tokyo-night&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tito-Saptarshi&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tito-Saptarshi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tito-Saptarshi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
