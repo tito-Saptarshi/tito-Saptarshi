@@ -1,52 +1,57 @@
 <h1 align="center">Hi 👋, I'm Saptarshi</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Spring+Boot;MongoDB+%7C+PostgreSQL+%7C+Prisma;I+build+cool+things+with+code" alt="Typing animation" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently diving deeper into **Full Stack Development**
-- 💬 Ask me about:  
-  `React`, `Next.js`, `MongoDB`, `Mongoose`, `Prisma`, `Java`, `Spring Boot`
-- 📫 Reach out: **saptarshi.tito.20@gmail.com**
-- 🧠 Always learning, always building
+- 💼 Full Stack Developer (MERN & Java Spring Boot)
+- 🌱 Currently exploring microservices & scalable backend systems
+- 💬 Ask me about `React`, `Next.js`, `MongoDB`, `Prisma`, `Java`, `Spring Boot`
+- 📫 Reach me at **saptarshi.tito.20@gmail.com**
 
 ---
 
 ### 🌐 Connect with Me
 
-<!-- Add your social links here -->
 <p align="left">
-  <a href="mailto:saptarshi.tito.20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:saptarshi.tito.20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/saptarshi-das-4822191b4/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/tito-Saptarshi"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,prisma,mongodb,postgresql,java,spring,ts,js,html,css,c,py" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
+### 📈 GitHub Stats & Contributions
 
-I code like it's a superpower — turning caffeine and logic into real-world solutions 😎  
-<!-- Optional: Add a quote or small personal touch here -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0f172a&color=38bdf8&line=f472b6&point=22d3ee&area=true&hide_border=true" />
+</p>
 
 ---
 
+### 🧠 Fun Fact
+
+> I don’t just write code.  
+> I **engineer** solutions, **design** systems, and **dream in logic** 💡
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
