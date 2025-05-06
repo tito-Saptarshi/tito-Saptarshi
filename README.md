@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines=React+%7C+Next.js+%7C+Spring+Boot+%7C+MongoDB+%7C+Prisma+%7C+Full+Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines=React+%7C+Next.js+%7C+Spring+Boot+%7C+NodeJS+%7C+Prisma+%7C+Full+Stack+Dev" alt="Typing SVG" />
 </p>
 
 ---
